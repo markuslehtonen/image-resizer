@@ -1,6 +1,6 @@
 ### Image-resizer
 
-This script is yet another version for creating thumbails.
+This script is yet another version for creating thumbails. PNG files are not supported.
 
 ### Requirements:
 - Python 2.7
