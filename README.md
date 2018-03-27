@@ -1,6 +1,10 @@
-Resizer,  Markus Lehtonen
+### Image-resizer
 
-Resizer is yet another thumbnail creator and it uses Python 2.7.
+This script is yet another version of creating thumbails.
 
-How to use:
-Your original image files should be in the same directory as the script (resizer.py). You will be prompted to enter the dimensions of your thumbnails. The script will save them in a subdirectory 'thumbnails' which will be created if not present before.
+### Requirements:
+- Python 2.7
+- PIL library
+
+### How to use:
+This script is used in the same directory as where your images are saved. You will be prompted to enter dimensions for your thumbnails. A subdirectory 'thumbnails' is created (if not already present) where thumbnails will be saved.
